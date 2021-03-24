@@ -1,0 +1,2 @@
+com/example/kotlinstudy2_spinner/BuildConfig.java
+ com.example.kotlinstudy2_spinner.BuildConfig

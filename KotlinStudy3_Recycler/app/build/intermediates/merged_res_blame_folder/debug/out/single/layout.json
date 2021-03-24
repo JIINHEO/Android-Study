@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\gjwld\\AndroidStudioProjects\\KotlinStudy3_Recycler\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_recycler.xml",
+        "source": "C:\\Users\\gjwld\\AndroidStudioProjects\\KotlinStudy3_Recycler\\app\\src\\main\\res\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\gjwld\\AndroidStudioProjects\\KotlinStudy3_Recycler\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gjwld\\AndroidStudioProjects\\KotlinStudy3_Recycler\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

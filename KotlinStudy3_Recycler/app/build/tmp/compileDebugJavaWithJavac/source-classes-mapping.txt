@@ -1,0 +1,6 @@
+com/example/kotlinstudy3_recycler/databinding/ActivityMainBinding.java
+ com.example.kotlinstudy3_recycler.databinding.ActivityMainBinding
+com/example/kotlinstudy3_recycler/BuildConfig.java
+ com.example.kotlinstudy3_recycler.BuildConfig
+com/example/kotlinstudy3_recycler/databinding/ItemRecyclerBinding.java
+ com.example.kotlinstudy3_recycler.databinding.ItemRecyclerBinding
